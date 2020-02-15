@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Hero from '../assets/Hero.jpg'
+import Hero from '../assets/HeroWeb.png'
 
 class componentName extends Component {
     render() {
@@ -8,9 +8,9 @@ class componentName extends Component {
                 {/* <div id="hero-inner">
                     
                 </div> */}
-                <p className="hero-text" id="hero-text-top">YOUTH</p>
-                    <p className="hero-text" id="hero-text-bottom">FAMILY RETREAT</p>
-                {/* <img src={Hero} alt="Camp Image" id="HeroImage" /> */}
+                {/* <p className="hero-text" id="hero-text-top">YOUTH</p>
+                <p className="hero-text" id="hero-text-bottom">FAMILY RETREAT</p> */}
+                <img id="HeroImage" />
                 {/* <div class="hero-text-box">
     
                 </div> */}
