@@ -13,50 +13,51 @@ class Packing extends Component {
                 </p>
                 <p className="packing-text">There will be a special dinner on Saturday night, so make sure to pack a nice outfit for that</p>
                 <p className="packing-text">As you pack, remember modesty and decency is the rule!</p>
-                <ul id="main-packing-list">
-                    <li>
-                        <ul>
-                            <PLI>Bed Sheet</PLI>
-                            <PLI>Blanket</PLI>
-                            <PLI>Pillow</PLI>
-                            <PLI>Pillow Case</PLI>
-                        </ul>
-                    </li>
-                    <li>
-                        <ul>
-                            <PLI>Change of clothes for 3 days</PLI>
-                            <PLI>Pyjamas</PLI>
-                            <PLI>Outfit For Special Dinner</PLI>
-                            <PLI>Sweaters</PLI>
-                            <PLI>Jacket</PLI>
-                            <PLI>Socks</PLI>
-                            <PLI>Underwear</PLI>
-                        </ul>
-                    </li>
-                    <li>
-                        <ul>
-                            <PLI>Tooth Brush</PLI>
-                            <PLI>Tooth Paste</PLI>
-                            <PLI>Toiletries</PLI>
-                            <PLI>Towel</PLI>
-                            <PLI>Bathroom Slippers</PLI>
-                            <PLI>Body Soap</PLI>
-                            <PLI>Sponge</PLI>
-                            <PLI>DEODERANT</PLI>
-                            <PLI>Lotion</PLI>
-                            <PLI>Sunscreen</PLI>
-                        </ul>
-                    </li>
-                    <li>
-                        <ul>
-                            <PLI>Bible</PLI>
-                            <PLI>Notebook and pen</PLI>
-                            <PLI>Cash not Snack Shack (Optional)</PLI>
-                            <PLI>Signed Waiver Form</PLI>
-                        </ul>
-                    </li>
-                </ul>
-
+                <div id="packing-inner">
+                    <ul id="main-packing-list">
+                        <li>
+                            <ul>
+                                <PLI>Bed Sheet</PLI>
+                                <PLI>Blanket</PLI>
+                                <PLI>Pillow</PLI>
+                                <PLI>Pillow Case</PLI>
+                            </ul>
+                        </li>
+                        <li>
+                            <ul>
+                                <PLI>Change of clothes for 3 days</PLI>
+                                <PLI>Pyjamas</PLI>
+                                <PLI>Outfit For Special Dinner</PLI>
+                                <PLI>Sweaters</PLI>
+                                <PLI>Jacket</PLI>
+                                <PLI>Socks</PLI>
+                                <PLI>Underwear</PLI>
+                            </ul>
+                        </li>
+                        <li>
+                            <ul>
+                                <PLI>Tooth Brush</PLI>
+                                <PLI>Tooth Paste</PLI>
+                                <PLI>Toiletries</PLI>
+                                <PLI>Towel</PLI>
+                                <PLI>Bathroom Slippers</PLI>
+                                <PLI>Body Soap</PLI>
+                                <PLI>Sponge</PLI>
+                                <PLI>DEODERANT</PLI>
+                                <PLI>Lotion</PLI>
+                                <PLI>Sunscreen</PLI>
+                            </ul>
+                        </li>
+                        <li>
+                            <ul>
+                                <PLI>Bible</PLI>
+                                <PLI>Notebook and pen</PLI>
+                                <PLI>Cash for Snack Shack (Optional)</PLI>
+                                <PLI>Signed Waiver Form</PLI>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
                 <a href="" id="packing-list-button">DOWNLOAD LIST</a>
             </div>
         );
