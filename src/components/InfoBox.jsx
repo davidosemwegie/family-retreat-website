@@ -16,7 +16,7 @@ class InfoBox extends Component {
     render() {
         return (
             <section className="info-box" style={{ backgroundImage: `url(${BG})` }}>
-                <div id="info-inner">
+                <div>
                     <p className="info-box-text" id="info-camp">CAMP 2020</p>
                     <p className="info-box-text" id="info-btw">#BETTERWITHYOU</p>
                     <p className="info-box-text" id="info-dt">Thu, Mar 19 - Sun. Mar 22 | Salem Acres Bible Camp</p>
