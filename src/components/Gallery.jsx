@@ -48,7 +48,9 @@ class Gallery extends Component {
                             />
                         </Carousel.Item>
                     </Carousel>
+                    <a target="_blank" href="https://www.showpass.com/youth-family-retreat/" className="info-box-text" id="ticket-box">Get Tickets</a>
                 </div>
+                
             </div>
         );
     }

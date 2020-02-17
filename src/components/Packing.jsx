@@ -13,8 +13,8 @@ class Packing extends Component {
                 </p>
                 <p className="packing-text">There will be a special dinner on Saturday night, so make sure to pack a nice outfit for that</p>
                 <p className="packing-text">As you pack, remember modesty and decency is the rule!</p>
-                <div id="packing-inner">
-                    <ul id="main-packing-list">
+                <div id="schedule-inner">
+                    <ul id="schedule-list">
                         <li>
                             <ul>
                                 <PLI>Bed Sheet</PLI>
