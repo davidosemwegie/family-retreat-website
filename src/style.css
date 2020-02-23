@@ -585,6 +585,19 @@ ul {
     justify-content: space-between;
 }
 
+#ticket-box-gallery {
+    background-color: red;
+    width: 50%;
+    text-align: center;
+    font-size: 2em;
+    padding-left: 0.3em;
+    padding-right: 0.3em;
+    text-decoration: none;
+    color: white;
+    border-radius: 25px;
+    margin: 2em;
+}
+
 @media only screen and (max-width: 600px) {
     #gallery-carousel {
         padding-left: 2em;
