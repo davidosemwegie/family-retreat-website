@@ -8,8 +8,8 @@ class Packing extends Component {
         return (
             <div id="packing-container">
                 <img src={packing} alt="Packing Image" className="packing-title" />
-                <p className="packing-text">There is a possibility yout might get dirty so please ensure you have a coupel
-                    options as replacement.
+                <p className="packing-text">There is a possibility you might get dirty so please ensure you have a couple
+                    options as replacements.
                 </p>
                 <p className="packing-text">There will be a special dinner on Saturday night, so make sure to pack a nice outfit for that</p>
                 <p className="packing-text">As you pack, remember modesty and decency is the rule!</p>

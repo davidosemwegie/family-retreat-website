@@ -31,7 +31,7 @@ class Schedule extends Component {
                                 <SE time="3:00PM" title="Activity" />
                                 <SE time="6:00PM" title="Dinner" />
                                 <SE time="7:10PM" title="Session" />
-                                <SE time="8:40PM" title="Games" />
+                                <SE time="8:40PM" title="Games Night" />
                                 <SE time="10:00PM" title="Campfire" />
                                 <SE time="11:20PM" title="Lights Out" />
                             </ul>
@@ -42,8 +42,8 @@ class Schedule extends Component {
                                 <SE time="8:30AM" title="Breakfast" />
                                 <SE time="11:00AM" title="Breakout Session" />
                                 <SE time="1:00PM" title="Lunch" />
-                                <SE time="2:00PM" title="Panel" />
-                                <SE time="4:00PM" title="Talent Show Prep" />
+                                <SE time="2:00PM" title="Panel Discussion" />
+                                <SE time="4:00PM" title="Free Time" />
                                 <SE time="7:00PM" title="Dinner Party Starts" />
                                 <SE time="12:30PM" title="Lights Out" />
                             </ul>
